@@ -20,4 +20,4 @@ The ErrorHandling contract is a simple smart contract that handles token operati
 ## Authors
 
 - Ralf Anastacio
-- Metacrafters (ETH + AVAX PROOF: Intermediate EVM Coursee)
+- Metacrafters (ETH + AVAX PROOF: Intermediate EVM Course)
